@@ -1,4 +1,3 @@
-#changing on the main server to see my editor launch
 # clear workspace
 rm(list = ls(all = TRUE))
 
